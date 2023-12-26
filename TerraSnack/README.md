@@ -2,6 +2,8 @@
 
 Welcome to the repository! This project allows you to deploy the Snack Game onto AWS S3 using Terraform for infrastructure automation.
 
+![Alt Text](https://eupload.in/wp-content/uploads/2023/12/s3.png)
+
 ## Getting Started
 
 Follow these steps to deploy the Snack Game:
@@ -15,7 +17,7 @@ Follow these steps to deploy the Snack Game:
 1. **Clone this Repository:**
    ```bash
    git clone https://github.com/maunikms/terrafrom-projects.git
-   cd TerraSnack
+   cd terrafrom-projects/TerraSnack
    ```
 
 2. **Modify Bucket Name:**
