@@ -49,7 +49,7 @@ Follow these steps to deploy the Snack Game:
 
 ### Accessing the Game
 
-Once the deployment is successful, access the Snack Game through the following URL: [Your-S3-Bucket-URL](#)
+Once the deployment is successful, access the Snack Game through your S3 bucket URL
 
 ## Notes
 
