@@ -1,6 +1,6 @@
 # Snack Game Deployment with Terraform on AWS S3
 
-Welcome to the Snack Game deployment repository! This project allows you to deploy the Snack Game onto AWS S3 using Terraform for infrastructure automation.
+Welcome to the repository! This project allows you to deploy the Snack Game onto AWS S3 using Terraform for infrastructure automation.
 
 ## Getting Started
 
@@ -15,10 +15,10 @@ Follow these steps to deploy the Snack Game:
 1. **Clone this Repository:**
    ```bash
    git clone https://github.com/maunikms/terrafrom-projects.git
-   cd snack-game-deployment
+   cd TerraSnack
    ```
 
-2. **Modify Bucket Name (Optional):**
+2. **Modify Bucket Name:**
    Open the `variables.tf` file and edit the `bucket_name` variable to set a unique name for your S3 bucket.
    ```hcl
    variable "bucket_name" {
@@ -58,12 +58,4 @@ Once the deployment is successful, access the Snack Game through the following U
 
 ## Contribution
 
-Contributions are welcome! Feel free to fork this repository, make changes, and create a pull request. Please follow the guidelines outlined in the CONTRIBUTING.md file.
-
-## License
-
-This project is licensed under [License Name]. See the LICENSE file for details.
-
----
-
-Include instructions within the `Getting Started` section to guide users on modifying the `variables.tf` file to change the S3 bucket name. Adjust the descriptions and comments in the Terraform variables file (`variables.tf`) to assist users in understanding how to change the bucket name.
+Contributions are welcome! Feel free to fork this repository, make changes, and create a pull request.
