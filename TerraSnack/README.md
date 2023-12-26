@@ -17,7 +17,7 @@ Follow these steps to deploy the Snack Game:
 1. **Clone this Repository:**
    ```bash
    git clone https://github.com/maunikms/terrafrom-projects.git
-   cd TerraSnack
+   cd terrafrom-projects/TerraSnack
    ```
 
 2. **Modify Bucket Name:**
