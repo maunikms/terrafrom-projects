@@ -3,13 +3,13 @@ Welcome to my personal Terraform Git repository! This repository serves as a con
 
 # Key Highlights:
 
-Organization: Structured to streamline infrastructure provisioning and management.
-Personal Projects: Custom configurations and templates tailored for specific use cases and experiments.
-Private Repository: Limited access for personal use and experimentation.
+<b>Organization:</b> Structured to streamline infrastructure provisioning and management.</br>
+<b>Personal Projects</b>: Custom configurations and templates tailored for specific use cases and experiments.</br>
+<b>Private Repository:</b> Limited access for personal use and experimentation.
 
 # Included Projects:
 
-1. TerraSnack: Snack Game on S3 with Terraform
+1. <b>TerraSnack:</b> Snack Game on AWS S3 with Terraform
    
 # Usage:
 
