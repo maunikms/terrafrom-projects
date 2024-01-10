@@ -11,6 +11,8 @@ Welcome to my personal Terraform Git repository! This repository serves as a con
 
 1. <b>TerraSnack:</b> Snack Game on AWS S3 with Terraform
 ![Alt Text](https://eupload.in/wp-content/uploads/2023/12/s3.png)
+
+ <b>Useful Terraform Commands</b> -> list of Terraform commands along with brief explanations of their purposes
 # Usage:
 
 Clone this repository to explore or reuse configurations in your own projects.
